@@ -1,0 +1,20 @@
+{
+  "rotation": [
+    "rotation/000.png",
+    "rotation/001.png",
+    "rotation/002.png",
+    "rotation/003.png",
+    "rotation/004.png",
+    "rotation/005.png",
+    "rotation/006.png",
+    "rotation/007.png",
+    "rotation/008.png",
+    "rotation/009.png"
+  ],
+  "break": [],
+  "initialFrame": 0,
+  "breakRotationFrame": 0,
+  "breakDuration": 1000,
+  "loop": false,
+  "brokenImage": "broken.png"
+}
